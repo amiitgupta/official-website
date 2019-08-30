@@ -6,3 +6,6 @@
 #    a. npm install
 #    b. nodemon server
 # 4. Open http://localhost:3000 on your browser
+
+
+See My changes and Updates to the site in /public/index.html  and  /public/style.css     files.
